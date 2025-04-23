@@ -1,5 +1,5 @@
 ## A Domokun Drawing
-An interactive character drawing where if the user clicks on Domokun, he'll wave.
+An interactive character where if the user clicks on Domokun, he'll wave.
 
 Built with CSS, TypeScript
 
