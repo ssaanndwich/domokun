@@ -1,6 +1,11 @@
 ## A Domokun Drawing
-An interactive character where if the user clicks on Domokun, he'll wave.
+A while back, I drew a Domokun using C++, rendering it in OpenGL. I wanted to do another iteration, but this time as a ✨vibe coder✨.
 
-Built with CSS, TypeScript
+This new version is interactive where if the user clicks on Domokun, he'll wave.
 
+### V1
 ![](https://github.com/ssaanndwich/domokun/blob/main/public/demo.gif)
+
+
+### V0
+![](https://github.com/ssaanndwich/domokun/blob/main/public/opengl.PNG)
